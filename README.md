@@ -11,7 +11,7 @@
 ✨ **Sprachen**
 
 <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/-Flutter-purple?style=for-the-badge&logo=flutter5&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-purple?style=for-the-badge&logo=dart&logoColor=white"/>
 <br />
 
 ✨ **Database**
