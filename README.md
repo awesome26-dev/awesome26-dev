@@ -4,7 +4,7 @@
 
 ✨ **Kontakt**
 
-<a href="https://github.com/Virusexe419"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/838508926462722068"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://www.instagram.com/virusexe49_/"><img src="https://img.shields.io/badge/-instagram-blue?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Virusexe419"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://discord.com/users/838508926462722068"><img src="https://img.shields.io/badge/-discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 <br />
 
@@ -26,5 +26,5 @@
 <br><br>
 ✨ **Alle Projekte**
 
-- VazeFM.de [ `Owner & Developer` ]
+- <s>VazeFM.de [ `Owner & Developer` ]</s>
 - <s>AntiVaze.de [ `Owner & Developer` ]</s>
