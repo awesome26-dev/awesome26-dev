@@ -29,7 +29,8 @@
 
 ✨ **Alle Projekte**
 
-- HayDay-Minecraft [ `Owner & Head-Developer` ]
-- MagicalEvent.de [ `Head-Developer` ]
-- <s>VazeFM.de [ `Owner & Developer` ]</s>
+- VazeIT.eu [`Adminstrator & Head-Developer` ]
+- <s>HayDay-Minecraft [ `Owner & Head-Developer` ] </s>
+- <s>MagicalEvent.de [ `Head-Developer` ] </s>
+- <s>VazeFM.de [ `Owner & Developer` ] </s>
 - <s>AntiVaze.de [ `Owner & Developer` ]</s>
